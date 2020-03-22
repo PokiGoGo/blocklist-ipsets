@@ -1,0 +1,32 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 523,
+		"common": 3
+	},
+	{
+		"name": "bambenek_suppobox",
+		"category": "malware",
+		"ips": 72,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 2
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 619603451,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 756667806,
+		"common": 1
+	}
+]
